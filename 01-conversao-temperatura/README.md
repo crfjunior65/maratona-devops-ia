@@ -8,4 +8,4 @@ A aplicação é exposta usando a porta 8080
 
 ### Primeiro Dia
 - Criamos o Dockerfile no src do diretorio 01-conversao-temperatura
-  No Primeiro Dia Fizemos os devidos Push e Testes. tudo pronto para o segundo dia d Maratona.
+  No Primeiro Dia Alem da Criação do Dockerfile, Buildamos a Imagem, e Fizemos os devidos Push e Testes. tudo pronto para o segundo dia d Maratona.
