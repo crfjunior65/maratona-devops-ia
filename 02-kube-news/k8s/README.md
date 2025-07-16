@@ -9,3 +9,7 @@
 Resutado do Exercicio:
 
 ![alt text](image-1.png)
+
+Terminado Exercicio:
+
+![alt text](image-2.png)
