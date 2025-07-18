@@ -42,7 +42,7 @@ kind: Deployment
 metadata:
   name: kube-news-app
 spec:
-  replicas: 1
+  replicas: 10
   selector:
     matchLabels:
       app: kube-news-app
@@ -53,7 +53,7 @@ spec:
     spec:
       containers:
       - name: kube-news-app
-        image: fabriciosveronez/kube-news-maratona:v1
+        image: crfjunior65/kube-news-maratona:v1
         ports:
         - containerPort: 8080
         env:

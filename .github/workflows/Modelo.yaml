@@ -1,4 +1,4 @@
-name: CI-CD
+name: Modelo CI-CD
 
 on:
   push:
