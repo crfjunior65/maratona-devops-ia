@@ -2,6 +2,11 @@
 
 Uma aplicação de notícias desenvolvida em NodeJS para demonstrar o uso de containers e Kubernetes.
 
+## Cloud Usada DigitalOcean da $200,00
+## 🚀 Começando
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=6dbd40fd44c2&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 ## 📋 Sobre o Projeto
 
 O projeto Kube-News é uma aplicação web simples desenvolvida em Node.js, projetada como exemplo para demonstrar o uso de contêineres. É um portal de notícias que permite criar, visualizar e gerenciar artigos através de uma interface web.
@@ -112,6 +117,9 @@ Estes recursos de simulação de falhas são extremamente úteis para testar:
 - Mecanismos de failover
 - Resiliência geral da sua infraestrutura
 
+## Grafana Sena Kubernetes
+kubectl get secret --namespace default grafana -o jsonpath="{.data.admin-password}" | base64 --decode ; echo
+
 ## 🔒 Modelo de Dados
 
 O projeto utiliza um único modelo `Post` com os seguintes campos:
@@ -124,3 +132,14 @@ O projeto utiliza um único modelo `Post` com os seguintes campos:
 | publishDate | Date | Data de publicação |
 
 
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=6dbd40fd44c2&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
+## 📄 Licença
+
+Este projeto é desenvolvido para fins educacionais como parte da Maratona DevOps IA.
+
+---
+
+**Desenvolvido com ❤️ durante a Maratona DevOps IA**
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=6dbd40fd44c2&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)

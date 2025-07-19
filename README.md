@@ -7,6 +7,10 @@
 
 ## 📋 Sobre o Projeto
 
+Este projeto é parte de uma maratona de aprendizado em DevOps, focada em tecnologias como Docker, Kubernetes e Node.js. O projeto é dividido em três partes principais:
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=6dbd40fd44c2&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 A **Maratona DevOps IA** é um projeto educacional focado no aprendizado prático de tecnologias DevOps modernas, incluindo containerização com Docker, orquestração com Kubernetes e deploy em cloud. O projeto demonstra a evolução de aplicações desde o desenvolvimento local até a produção em ambiente Kubernetes.
 
 ## 🎯 Objetivos da Maratona
